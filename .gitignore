@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# Devpost Learn skill pack: learner profile and local credentials stay private
+devpost/learner-profile.md
